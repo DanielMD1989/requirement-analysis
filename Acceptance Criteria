@@ -1,1 +1,29 @@
 
+✅ Acceptance Criteria
+Acceptance Criteria are a set of predefined conditions that a feature or functionality must meet to be accepted by stakeholders or considered “done.” They are a critical part of Requirement Analysis because they provide a clear, shared understanding of expectations between developers, testers, and clients.
+
+🔎 Why Acceptance Criteria Matter:
+✅ Clarify Requirements: Define exactly what needs to be built.
+
+✅ Guide Development: Developers know what functionality and behaviors to implement.
+
+✅ Enable Testing: Testers can verify that the feature works as expected.
+
+✅ Prevent Misunderstandings: Ensure all stakeholders are aligned on feature scope.
+
+🛒 Example: Acceptance Criteria for “Checkout” Feature
+Feature: Checkout – Allows a user to complete the booking process for a selected property.
+
+Acceptance Criteria:
+
+The user must be logged in to access the checkout page.
+
+The checkout page displays a summary of the selected booking (property, dates, price).
+
+The user can enter or select a saved payment method.
+
+The system must validate payment details before submission.
+
+On successful payment, the booking is saved and a confirmation message is shown.
+
+A confirmation email is sent to the user with the booking details.
