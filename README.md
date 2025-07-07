@@ -46,5 +46,38 @@ When requirements are clearly understood from the start, there's less chance of 
 3. 🧩 Improves Communication and Stakeholder Alignment
 Requirement Analysis creates a shared language between stakeholders, developers, and project managers. This improves collaboration, reduces confusion, and ensures that the software meets actual user needs.
 
+🔍 Key Activities in Requirement Analysis
+Requirement Analysis involves several key activities that help ensure software is built to meet the right needs. Below are the five core activities involved:
+
+📥 Requirement Gathering
+
+Collects raw information from stakeholders, users, and clients.
+
+Uses techniques like interviews, surveys, observations, and questionnaires.
+
+🧠 Requirement Elicitation
+
+Refines gathered information to uncover real needs and expectations.
+
+Involves brainstorming, workshops, use cases, and prototyping to explore ideas further.
+
+📝 Requirement Documentation
+
+Converts elicited requirements into formal documents (e.g., SRS – Software Requirements Specification).
+
+Ensures clear, unambiguous, and testable requirements.
+
+📊 Requirement Analysis and Modeling
+
+Analyzes relationships, dependencies, feasibility, and consistency of requirements.
+
+Uses tools like flowcharts, data models, and UML diagrams for better understanding.
+
+✅ Requirement Validation
+
+Confirms that documented requirements accurately reflect stakeholder needs.
+
+Involves walkthroughs, reviews, and feedback sessions to gain approval and prevent errors.
+
 
 
