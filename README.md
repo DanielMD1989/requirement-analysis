@@ -113,6 +113,50 @@ The system must be available 99.9% of the time (high availability).
 
 The interface should be mobile-responsive and user-friendly.
 
+🧩 Use Case Diagrams
+Use Case Diagrams are a visual representation of how users (called actors) interact with a system. They are an important tool in Requirement Analysis because they help:
+
+Identify key system functionalities
+
+Clarify user roles and interactions
+
+Align developers and stakeholders on what the system should do
+
+Use case diagrams focus on "who does what" — providing a high-level overview of system behavior from the user's perspective.
+
+✅ Benefits of Use Case Diagrams:
+Easy to understand, even for non-technical stakeholders
+
+Helps uncover missing requirements or misunderstandings
+
+Supports early validation of system scope and user goals
+
+📌 Use Case Diagram for Booking Management System
+The diagram below illustrates key actors and their interactions with the system:
+
+
+🎭 Actors:
+Guest: Searches properties, registers, books listings
+
+Property Owner: Lists and manages properties
+
+Admin: Manages users, properties, and bookings
+
+📋 Use Cases:
+Register/Login
+
+Search Property
+
+Book Property
+
+List Property
+
+Manage Bookings
+
+Manage Listings
+
+Admin Dashboard Access
+
 
 
 
